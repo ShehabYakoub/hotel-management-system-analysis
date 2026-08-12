@@ -1,0 +1,16 @@
+\-	The data contains 119,390 reservations dated from July 2015 to August 2018; in this period, 44,224 reservations were cancelled, which is about 37.04% of the total reservations, indicating a significant level of booking uncertainty.
+
+\-	Based on the hotel’s ADR, the potential revenue was estimated at about $42.724M, while the actual revenue was approximately $25.996M, resulting in an estimated $16.728M in revenue at risk, equivalent to approximately 39% of potential revenue.
+
+\-	City Hotels recorded a significantly higher cancellation rate than Resort Hotels, at 41.73% compared with 27.76%, indicating that City Hotels face a higher level of cancellation risk.
+
+\-	Portugal generated the highest booking volume among the top countries and also recorded the highest cancellation rate at 56.64%, indicating that Portugal is both a major source of bookings and a significant source of cancellation risk.
+
+\-	Most of the market segments have a low rate of cancellations, except for Groups; Groups recorded the highest cancellation rate at 61.06%. This segment should be investigated further, particularly its deposit policy, lead time, and revenue contribution, before making decisions about reducing group bookings.
+
+\-	Non-refundable deposits are strongly associated with cancellations, with 99.36% of bookings in this category being cancelled, while refundable and no-deposit bookings had much lower cancellation rates of 22.22% and 28.38%, respectively. The extremely high cancellation rate among non-refundable bookings warrants investigation for potential data quality, policy, or business-process issues.
+
+\-	Finally, long-lead bookings had a 50.65% cancellation rate, compared with only 18.25% for short-lead bookings. The hotel could consider differentiated cancellation policies, deposits, or reminder strategies for long-lead reservations rather than applying a blanket lead-time restriction.
+
+
+
